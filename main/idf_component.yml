@@ -1,0 +1,4 @@
+description: BSP Display rotation example
+dependencies:
+  esp-box-3:
+    version: "*"
