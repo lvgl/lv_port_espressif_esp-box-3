@@ -1,5 +1,8 @@
 # LVGL ported to ESP32-S3-BOX-3
 
+
+**Archived as it was made available in [lv_esp_idf](https://github.com/lvgl/lv_esp_idf).**
+
 ## Overview
 
 This is LVGL ported to [ESP32-S3-BOX-3](https://github.com/espressif/esp-bsp/tree/master/bsp/esp-box-3) with using Espressif [BSP](https://github.com/espressif/esp-bsp). This example shows LVGL music demo.
